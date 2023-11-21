@@ -6,7 +6,7 @@ function Layout() {
     <div className="flex flex-col min-h-screen">
         <Outlet />
         <div className="block inset-x-0 bottom-0 text-sm text-gray-500 sm:text-center p-1">
-          <span>© All Rights Reserved by LIMTECHY LAB LIMITED.</span>
+          <span>© All Rights Reserved by LIMTECHY LAB.</span>
         </div>
         < Toaster />
     </div>
